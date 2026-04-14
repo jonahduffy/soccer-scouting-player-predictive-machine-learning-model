@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This project utilizes machine learning to evaluate and predict professional soccer player performance, identifying optimal scouting targets. The goal is to provide data-driven insights into recruitment viability. 
 
-You can view the full presentation of the findings here: [Link to your PDF file in the repo]
+You can view the full presentation of the findings here: https://github.com/jonahduffy/soccer-scouting-player-predictive-machine-learning-model/blob/main/MLV%20Presentation%20-%20A.I.%20in%20Scouting.pdf 
 
 ## 🛠️ Tools & Technologies
 * **Language:** Python
