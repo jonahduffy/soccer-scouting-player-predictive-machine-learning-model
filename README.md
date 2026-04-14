@@ -11,9 +11,9 @@ You can view the full presentation of the findings here: [Link to your PDF file 
 * **Techniques:** Data Cleansing, Feature Engineering, Predictive Modeling
 
 ## 📂 Repository Contents
-* `code_filename.ipynb`: The main notebook containing the data pipeline and machine learning model.
-* `presentation_filename.pdf`: The slide deck summarizing methodologies and business insights.
-* `dataset_filename.csv`: The underlying player statistics dataset.
+* `MLVpythoncode.ipynb`: The main notebook containing the data pipeline and machine learning model.
+* `MLV Presentation - A.I. in Scouting.pdf`: The slide deck summarizing methodologies and business insights.
+* `players_data-2024-2025.csv`: The underlying player statistics dataset.
 
 ## 📈 Key Findings
 * (Add a 1-2 sentence bullet point about an interesting trend you found)
