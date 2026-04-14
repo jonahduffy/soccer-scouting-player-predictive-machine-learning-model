@@ -16,5 +16,7 @@ You can view the full presentation of the findings here: https://github.com/jona
 * `players_data-2024-2025.csv`: The underlying player statistics dataset.
 
 ## 📈 Key Findings
-* (Add a 1-2 sentence bullet point about an interesting trend you found)
-* (Add a 1-2 sentence bullet point about how accurate your model was)
+* The K-Nearest Neighbors (KNN) algorithm successfully identified undervalued talent by evaluating approximately 3,000 players across 14 distinct performance metrics.
+* When using Erling Haaland (valued at $180 million) as the target player, the model identified Serhou Guirassy as a 78.9% statistical twin.
+* Despite playing for different teams, the model found nearly an 80% like-for-like statistical replacement in key metrics (such as expected goals, shot-creating actions, and progressive carries) for roughly 20% of the market cost.
+* The results demonstrate that an unsupervised machine learning algorithm can effectively bypass traditional human scouting biases to find top-tier performance metrics in overlooked markets.
